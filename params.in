@@ -1,0 +1,6 @@
+target_error=0.1
+w=1.0
+c1=1.0
+c2=2.5
+number_particle=50
+noOfIterations=100
